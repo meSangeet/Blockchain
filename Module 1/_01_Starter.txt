@@ -1,0 +1,13 @@
+What is Blockchain ?
+
+Blockchain is a distributed immutable ledger. which is completely transparent.
+
+Like a transaction entry book of a shop which contains all the transaction of customers, the web 3 contains a block 
+which will contain all the transaction  but the difference is that this transaction cannot be removed from this block.
+(This property is called immutable).
+
+Every transaction done in a blockchain is reflected to all the systems(computers). This property is called transparent. 
+
+All these transactions are crypt using a secret code this hide this transaction from all the other users which maintains privacy of your transactions.
+
+
