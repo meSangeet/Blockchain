@@ -1,0 +1,26 @@
+Hashing Algorithm
+
+Every block in a blockchain contains some data, hash and previous hash.
+
+Every block is alloted a hash which is like the fingerprint of the block. This hash is generated using SHA 256 algorithm.
+
+
+The hash generated using this algorithm contains 64 hexadecimal characters. Each character is of 4 bits.
+So in total it has 64*4 = 256 bits.
+
+Every block points its previous block using its previous hash. The first block of a chain do not points to any block and is called genesis block.
+
+
+
+
+Five requirements of a hash algorithm - 
+
+1. It is one way, it means you cannot get back the original data from the created hash.
+
+2. It is deterministic. Same data will always generate same hash code.
+
+3. Fast Computation
+
+4. Withstand Collisions -> Very difficult to hack by any hacker.
+
+5. Avalanche effect -> The hash algorithms gets completely changed just by a minor change in the original data.
