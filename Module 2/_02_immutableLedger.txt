@@ -1,0 +1,8 @@
+How is blockchain immutable ?
+
+blockchain exists in a distributed environment, so when a hacker try to attack a particular block. It can only exists in one block but different systems are connectd to this chain so they will have the data intact. 
+
+Now let's say a hacker manipulated the data in one block now as the next blocks points to this block they will get corrupt as the hash id of this block will be chain and the next blocks will not be pointing to any block. 
+
+This will be clearly noticed by the company and they will reset the data    which is stored in other systems as the blockchain is present in a distributed environment.
+
