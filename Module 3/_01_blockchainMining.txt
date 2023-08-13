@@ -1,0 +1,25 @@
+blockchain mining
+
+A peer-to-peer computer process, Blockchain mining is used to secure and verify bitcoin transactions. Mining involves Blockchain miners who add bitcoin transaction data to Bitcoin’s global public ledger of past transactions. In the ledgers, blocks are secured by Blockchain miners and are connected to each other forming a chain.
+
+Imagine a big digital puzzle that needs to be solved to add new transactions to a digital ledger (like a record book). This digital puzzle is called a "block." Now, miners are like computer detectives who compete to solve this puzzle.
+
+Here's how it works:
+
+Transactions: People all around the world are making digital transactions, like sending or receiving cryptocurrencies (like Bitcoin) or other digital assets. These transactions are collected into a group.
+
+Creating a Block: Miners take this group of transactions and try to solve a complicated math problem related to it. This problem requires a lot of computational power to solve.
+
+Solving the Puzzle: Miners keep trying different solutions to the puzzle, and the first one to find the correct solution gets to create a new block. This is where the "mining" happens – they're digging through possibilities to find the right one.
+
+Adding to the Chain: Once a miner solves the puzzle, the new block is added to the existing chain of blocks. Each block contains a link to the previous block, creating a continuous chain, hence the name "blockchain."
+
+Rewards: The miner who solves the puzzle gets rewarded with some cryptocurrency (like Bitcoin) for their hard work and the energy they spent on their computer. This is how new coins are created and put into circulation.
+
+Security and Trust: Mining is important because it makes the blockchain secure. Since solving the puzzle is difficult and requires a lot of energy, it's very hard for someone to cheat or manipulate the system. This helps keep the transactions on the blockchain trustworthy.
+
+So, think of blockchain mining like solving a digital puzzle to confirm and add new transactions to a digital ledger, while also earning rewards for the effort.
+
+
+
+
