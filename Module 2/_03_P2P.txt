@@ -1,0 +1,46 @@
+What is centralised network ?
+
+Different clients sends request to same server. All the data is saved in a centralised database of the company and if by chance the data is hacked all the privacy will be effected.
+
+
+Distributed P2P network 
+
+No single system contains all the data. A single data might be present in different systems. 
+
+One system can make requests to other computers for certain information of data.
+
+Now there will be lakhs of systems and it will be impossible to hack all of them.
+
+
+There is no centralised server, there will be many systems which can ask information form each other.
+
+
+
+
+How is a blockchain maintained in a distributed P2P network ?
+
+A blockchain is maintained in a distributed peer-to-peer (P2P) network through a combination of consensus mechanisms, cryptographic techniques, and network protocols. The primary goal of this system is to ensure the integrity, security, and consistency of the shared ledger across all participants without the need for a central authority. Here's an overview of how a blockchain is maintained in a distributed P2P network:
+
+Decentralized Network: A blockchain network consists of multiple nodes, which can be individual computers or devices connected to the internet. These nodes form a decentralized network where each participant has a copy of the entire blockchain ledger.
+
+Consensus Mechanisms: Consensus mechanisms are protocols used to achieve agreement among nodes on the state of the blockchain. They ensure that all nodes in the network agree on the validity of transactions and the order in which they are added to the blockchain. Common consensus mechanisms include Proof of Work (PoW), Proof of Stake (PoS), Delegated Proof of Stake (DPoS), and Practical Byzantine Fault Tolerance (PBFT), among others.
+
+Proof of Work (PoW): In PoW, miners compete to solve complex mathematical puzzles. The first one to solve the puzzle gets the right to add the next block to the blockchain. This mechanism is resource-intensive and secures the network by making attacks expensive to execute.
+
+Proof of Stake (PoS): In PoS, validators are chosen to create new blocks based on the number of cryptocurrency tokens they hold and "stake" as collateral. This reduces energy consumption compared to PoW.
+
+Delegated Proof of Stake (DPoS): DPoS introduces a voting mechanism where token holders elect a limited number of nodes (delegates) to create and validate blocks on their behalf. This speeds up the consensus process and increases scalability.
+
+Block Creation and Validation: Transactions are grouped into blocks, and a consensus mechanism determines which node gets to create the next block. The chosen node validates the transactions, adds them to the block, and broadcasts the new block to the network.
+
+Cryptographic Hashing: Each block contains a cryptographic hash of the previous block, creating a linked chain of blocks. This linking ensures the immutability of the blockchain since altering a previous block would require changing all subsequent blocks, which is computationally infeasible.
+
+Broadcast and Propagation: Once a block is created and validated, it's broadcast to all nodes in the network. Nodes verify the block's validity and reach a consensus on whether to add it to their local copy of the blockchain.
+
+Incentives and Rewards: In networks with native cryptocurrencies (like Bitcoin or Ethereum), participants are incentivized to maintain the network by earning rewards. Miners or validators receive newly minted cryptocurrency and transaction fees for their efforts in block creation and validation.
+
+Data Replication and Synchronization: As new blocks are added to the blockchain, all nodes in the network update their copies to reflect the latest state. This ensures that every participant has an up-to-date and consistent version of the blockchain.
+
+Fault Tolerance and Security: The decentralized nature of the network makes it more resilient to attacks and failures. Even if some nodes become compromised or fail, the majority of honest nodes can continue to maintain the network's integrity.
+
+In summary, a blockchain is maintained in a distributed P2P network through consensus mechanisms, cryptographic hashing, network protocols, and the active participation of nodes that validate, create, and propagate blocks. This decentralized approach provides security, immutability, and transparency for various applications beyond just cryptocurrencies.
